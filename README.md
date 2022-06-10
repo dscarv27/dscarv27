@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Play Mario: https://dscarv27.github.io/marioJump/
+Reveal your fate: https://dscarv27.github.io/maratona-explorer-i/ 
 <!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning fullstack skills
