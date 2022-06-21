@@ -23,6 +23,8 @@ Reveal your fate: https://dscarv27.github.io/maratona-explorer-i/
 <a href="https://www.linkedin.com/in/dscarv27" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
   
+  [![Snake Game](https://github.com/dscarv27/dscarv27/actions/workflows/dscarv27.yml/badge.svg)](https://github.com/dscarv27/dscarv27/actions/workflows/dscarv27.yml)
+  
 <!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning fullstack skills
