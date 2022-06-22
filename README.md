@@ -9,7 +9,7 @@ Reveal your fate: https://dscarv27.github.io/maratona-explorer-i/
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dscarv27&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<div style="display: inline_block">
+<div style="display: inline_block justify-content: center">
   <br>
   <img align="center" alt="dscarv27-Js" height="30" width="40" title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="dscarv27-HTML" height="30" width="40" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
