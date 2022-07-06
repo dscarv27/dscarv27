@@ -5,7 +5,7 @@
 
 Play Mario: https://dscarv27.github.io/marioJump/ <br>
 Reveal your fate: https://dscarv27.github.io/maratona-explorer-i/ <br>
-My link-tree: https://dscarv27.github.io/maratona-explorer-ii/
+Link-tree: https://dscarv27.github.io/maratona-explorer-ii/
 
 <div>
 <a href="https://github.com/dscarv27">
