@@ -1,10 +1,11 @@
 ### Hi there 👋
 - 🌱 I’m currently learning fullstack skills at DigitalHouse and Rocketseat
 - 🤔 I’m looking for help with how to program metaverso in projects
-- ⚡ Fun fact: i studied history before i started programming 
+- ⚡ Fun fact: i graduated in history before i started programming 
 
 Play Mario: https://dscarv27.github.io/marioJump/ <br>
-Reveal your fate: https://dscarv27.github.io/maratona-explorer-i/ 
+Reveal your fate: https://dscarv27.github.io/maratona-explorer-i/ <br>
+My link-tree: https://dscarv27.github.io/maratona-explorer-ii/
 
 <div>
 <a href="https://github.com/dscarv27">
