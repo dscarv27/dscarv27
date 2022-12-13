@@ -14,7 +14,7 @@ Link-tree eSports: https://dscarv27.github.io/nlw-esports/
 <a href="https://github.com/dscarv27">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dscarv27&layout=compact&langs_count=7&theme=dracula"/>
 </div> -->
-<br>
+
 <div style="display: inline_block">
   <h3>main languages for now</h3>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Rails.svg" width="35" height="35" />
