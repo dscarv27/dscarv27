@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning fullstack skills at DigitalHouse and Rocketseat
+- 🔭 I’m currently working at headmind partners
+- 🌱 I’m currently learning fullstack skills, specialy ruby on rails and react
 - 🤔 I’m looking for help with how to program metaverso in projects
 - ⚡ Fun fact: i graduated in history before i started programming 
 
@@ -15,15 +16,10 @@ Link-tree eSports: https://dscarv27.github.io/nlw-esports/
 </div>
 <br>
 <div style="display: inline_block">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>       
+  <h3>main languages for now</h3>
+  
+  <h3>other ones</h3>
+  
 </div>
 <br>
 <a href= "https://www.twitter.com/dscarv27"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
@@ -31,7 +27,6 @@ Link-tree eSports: https://dscarv27.github.io/nlw-esports/
 <a href= "https://www.linkedin.com/in/dscarv27" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </body>
 <!-- 
-- 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 - 📫 How to reach me: look for dscarv27 on twitter and linkedin
