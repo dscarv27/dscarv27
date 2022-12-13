@@ -27,7 +27,7 @@ Link-tree eSports: https://dscarv27.github.io/nlw-esports/
     <img src="https://icons8.com/icon/t9oCxEN7McHZ/nodejs" width="35" height="35" />
     <img src="https://icons8.com/icon/3UzMbioJA7La/vuejs" width="35" height="35" />
     <img src="https://icons8.com/icon/39853/javascript" width="35" height="35" />
-    <img src="https://icons8.com/icon/38273/css3" width="35" height="35" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/CSS.svg" width="35" height="35" />
     <img src="https://icons8.com/icon/23027/html-5" width="35" height="35" />
 </div>
 <div style="display: inline_block">
