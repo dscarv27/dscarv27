@@ -10,10 +10,10 @@ Link-tree: https://dscarv27.github.io/maratona-explorer-ii/ <br>
 Who is that Pokemon?: https://dscarv27.github.io/consumindo-pokeAPI/ <br>
 Link-tree eSports: https://dscarv27.github.io/nlw-esports/
 
-<div>
+<!-- <div>
 <a href="https://github.com/dscarv27">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dscarv27&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div> -->
 <br>
 <div style="display: inline_block">
   <h3>main languages for now</h3>
