@@ -17,24 +17,25 @@ Link-tree eSports: https://dscarv27.github.io/nlw-esports/
 <br>
 <div style="display: inline_block">
   <h3>main languages for now</h3>
-  <img src="https://icons8.com/icon/ZMFmFsekpKfY/ruby-on-rails" width="35" height="35" />
-  <img src="https://icons8.com/icon/0Da6k7SMq0hs/react" width="35" height="35" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Rails.svg" width="35" height="35" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" width="35" height="35" />
 </div>
 <div style="display: inline_block">
   <h3>other ones</h3>
-    <img src="https://icons8.com/icon/vMqgHSToxrJR/typescript" width="35" height="35" />
-    <img src="https://icons8.com/icon/2572/java" width="35" height="35" />
-    <img src="https://icons8.com/icon/t9oCxEN7McHZ/nodejs" width="35" height="35" />
-    <img src="https://icons8.com/icon/3UzMbioJA7La/vuejs" width="35" height="35" />
-    <img src="https://icons8.com/icon/39853/javascript" width="35" height="35" />
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ruby.svg" width="35" height="35" />
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" width="35" height="35" />
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width="35" height="35" />
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" width="35" height="35" />
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Dark.svg" width="35" height="35" />
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="35" height="35" />
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/CSS.svg" width="35" height="35" />
-    <img src="https://icons8.com/icon/23027/html-5" width="35" height="35" />
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="35" height="35" />
 </div>
 <div style="display: inline_block">
   <h3>others skills</h3>
-    <img src="https://icons8.com/icon/12598/github" width="35" height="35" />
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width="35" height="35" />
     <img src="https://icons8.com/icon/38298/oracle-logo" width="35" height="35" />
-    <img src="https://icons8.com/icon/39858/mysql-logo" width="35" height="35" />  
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="35" height="35" />  
 </div>
 <br>
 <a href= "https://www.twitter.com/dscarv27"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
