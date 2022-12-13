@@ -17,9 +17,24 @@ Link-tree eSports: https://dscarv27.github.io/nlw-esports/
 <br>
 <div style="display: inline_block">
   <h3>main languages for now</h3>
-  
+  <img src="https://icons8.com/icon/ZMFmFsekpKfY/ruby-on-rails" width="35" height="35" />
+  <img src="https://icons8.com/icon/0Da6k7SMq0hs/react" width="35" height="35" />
+</div>
+<div style="display: inline_block">
   <h3>other ones</h3>
-  
+    <img src="https://icons8.com/icon/vMqgHSToxrJR/typescript" width="35" height="35" />
+    <img src="https://icons8.com/icon/2572/java" width="35" height="35" />
+    <img src="https://icons8.com/icon/t9oCxEN7McHZ/nodejs" width="35" height="35" />
+    <img src="https://icons8.com/icon/3UzMbioJA7La/vuejs" width="35" height="35" />
+    <img src="https://icons8.com/icon/39853/javascript" width="35" height="35" />
+    <img src="https://icons8.com/icon/38273/css3" width="35" height="35" />
+    <img src="https://icons8.com/icon/23027/html-5" width="35" height="35" />
+</div>
+<div style="display: inline_block">
+  <h3>others skills</h3>
+    <img src="https://icons8.com/icon/12598/github" width="35" height="35" />
+    <img src="https://icons8.com/icon/38298/oracle-logo" width="35" height="35" />
+    <img src="https://icons8.com/icon/39858/mysql-logo" width="35" height="35" />  
 </div>
 <br>
 <a href= "https://www.twitter.com/dscarv27"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
