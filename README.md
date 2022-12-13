@@ -33,9 +33,12 @@ Link-tree eSports: https://dscarv27.github.io/nlw-esports/
 </div>
 <div style="display: inline_block">
   <h3>others skills</h3>
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width="35" height="35" />
-    <img src="https://icons8.com/icon/38298/oracle-logo" width="35" height="35" />
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="35" height="35" />  
+<!--     <ims src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" width="35" height="35" /> -->
+    <img src="https://user-images.githubusercontent.com/101675182/207424876-c2cba1ab-8361-4e43-9925-c584116434f9.png" width="35" height="35" />
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite.svg" width="35" height="35" />
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="35" height="35" />
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="35" height="35" />
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" width="35" height="35" />
 </div>
 <br>
 <a href= "https://www.twitter.com/dscarv27"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
