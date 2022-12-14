@@ -21,7 +21,7 @@ Link-tree eSports: https://dscarv27.github.io/nlw-esports/
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" width="35" height="35" />
 </div>
 <div style="display: inline_block">
-  <h3>other ones</h3>
+  <h3>others ones</h3>
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ruby.svg" width="35" height="35" />
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" width="35" height="35" />
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width="35" height="35" />
