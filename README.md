@@ -27,9 +27,9 @@ Link-tree eSports: https://dscarv27.github.io/nlw-esports/ -->
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width="35" height="35" />
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" width="35" height="35" />
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Dark.svg" width="35" height="35" />
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="35" height="35" />
+<!--     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="35" height="35" />
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/CSS.svg" width="35" height="35" />
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="35" height="35" />
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="35" height="35" /> -->
 </div>
 <div style="display: inline_block">
   <h3>others skills</h3>
