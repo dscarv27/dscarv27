@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working at headmind partners
+- 🔭 I’m currently working at idpi
 - 🌱 I’m currently learning fullstack skills, specially ruby on rails and react
 - 🤔 I’m looking for help with how to program metaverso in projects
 - ⚡ Fun fact: i graduated in history before i started programming 
