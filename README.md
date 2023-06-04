@@ -10,7 +10,7 @@
 </div> -->
 
 <div style="display: inline_block">
-  <h3>main languages for now</h3>
+  <h3>main languages</h3>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" width="35" height="35" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" width="35" height="35" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" width="35" height="35" />
@@ -24,7 +24,7 @@
 </div>
 <div style="display: inline_block">
   <h3>others skills</h3>
-    <ims src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="35" height="35" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="35" height="35" />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="35" height="35" />
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite.svg" width="35" height="35" />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="35" height="35" />
