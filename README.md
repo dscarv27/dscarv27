@@ -1,7 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working at idpi
-- 🌱 I’m currently learning fullstack skills, specially ruby on rails and react
-- 🤔 I’m looking for help with how to program metaverso in projects
+
+- 🌱 I’m currently learning fullstack skills, specially react and nodejs
 - ⚡ Fun fact: i graduated in history before i started programming 
 
 <!-- <div>
@@ -37,7 +36,9 @@
 <a href= "https://www.linkedin.com/in/dscarv27" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </body>
 <!-- 
+- 🔭 I’m currently working at 
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 - 📫 How to reach me: look for dscarv27 on twitter and linkedin
+- 🤔 I’m looking for help with how to program metaverso in projects
 - 😄 Pronouns: he/him -->
