@@ -25,7 +25,6 @@
   <h3>others skills</h3>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="35" height="35" />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="35" height="35" />
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite.svg" width="35" height="35" />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="35" height="35" />
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="35" height="35" />
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" width="35" height="35" />
